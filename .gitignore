@@ -1,0 +1,10 @@
+##ignore this file##
+/.idea/
+/target/
+/taotao-manager-web/target/
+/taotao-manager/target-manager-service/target/
+/out/
+taotao.iml
+taotao-common/taotao-common.iml
+taotao-manager-web/taotao-manager-web.iml
+taotao-manager/taotao-manager.iml
